@@ -1,0 +1,122 @@
+{
+    "double_square_down": {
+        "images_boxes": [
+            {
+                "top_left_x": 0,
+                "top_left_y": 0,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 540
+            },
+            {
+                "top_left_x": 0,
+                "top_left_y": 540,
+                "bottom_right_x": 540,
+                "bottom_right_y": 1080
+            },
+            {
+                "top_left_x": 540,
+                "top_left_y": 540,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 1080
+            }
+        ]
+    },
+    "double_square_right": {
+        "images_boxes": [
+            {
+                "top_left_x": 0,
+                "top_left_y": 0,
+                "bottom_right_x": 540,
+                "bottom_right_y": 1080
+            },
+            {
+                "top_left_x": 540,
+                "top_left_y": 0,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 540
+            },
+            {
+                "top_left_x": 540,
+                "top_left_y": 540,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 1080
+            }
+        ]
+    },
+    "double_square_left": {
+        "images_boxes": [
+            {
+                "top_left_x": 0,
+                "top_left_y": 0,
+                "bottom_right_x": 540,
+                "bottom_right_y": 540
+            },
+            {
+                "top_left_x": 540,
+                "top_left_y": 0,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 1080
+            },
+            {
+                "top_left_x": 0,
+                "top_left_y": 540,
+                "bottom_right_x": 540,
+                "bottom_right_y": 1080
+            }
+        ]
+    },
+    "double_square_up": {
+        "images_boxes": [
+            {
+                "top_left_x": 0,
+                "top_left_y": 0,
+                "bottom_right_x": 540,
+                "bottom_right_y": 540
+            },
+            {
+                "top_left_x": 540,
+                "top_left_y": 0,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 540
+            },
+            {
+                "top_left_x": 0,
+                "top_left_y": 540,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 1080
+            }
+        ]
+    },
+    "split_vertical": {
+        "images_boxes": [
+            {
+                "top_left_x": 0,
+                "top_left_y": 0,
+                "bottom_right_x": 540,
+                "bottom_right_y": 1080
+            },
+            {
+                "top_left_x": 540,
+                "top_left_y": 0,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 1080
+            }
+        ]
+    },
+    "split_horizontal": {
+        "images_boxes": [
+            {
+                "top_left_x": 0,
+                "top_left_y": 0,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 540
+            },
+            {
+                "top_left_x": 0,
+                "top_left_y": 540,
+                "bottom_right_x": 1080,
+                "bottom_right_y": 1080
+            }
+        ]
+    }
+}

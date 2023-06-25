@@ -1,0 +1,38 @@
+{
+   "Galo": {
+      "name": "galoA",
+      "age": "23",
+      "genre": "Hombre",
+      "image": "avatar_8.088867.png"
+   },
+   "Lauta": {
+      "name": "lauta",
+      "age": "26",
+      "genre": "Otre",
+      "image": "avatar_5.601328.png"
+   },
+   "albertone": {
+      "name": "albert",
+      "age": "40",
+      "genre": "Mujer",
+      "image": "avatar_0.776826.png"
+   },
+   "s0sh1": {
+      "name": "Fran",
+      "age": "23",
+      "genre": "Hombre",
+      "image": "avatar_3.858806.png"
+   },
+   "Nico": {
+      "name": "nico",
+      "age": "123",
+      "genre": "Mujer",
+      "image": "avatar_2.647236.png"
+   },
+   "Profe": {
+      "name": "Agus",
+      "age": "22",
+      "genre": "Hombre",
+      "image": "avatar_2.098943.png"
+   }
+}

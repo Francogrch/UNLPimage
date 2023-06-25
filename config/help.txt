@@ -1,0 +1,49 @@
+¡Bienvenido a UNLPImage! 🎉
+
+    *ADVERTENCIA: AL HACER CLICK EN UN BOTON POR FAVOR AGUANTAR UN SEGUNDO CON PUNTERO SOBRE EL BOTON*
+    *ADVERTENCIA 2: PROCURE NO ELIMINAR LAS CARPETAS SELECCIONADAS EN LA CONFIGURACION DEL PROGRAMA*
+
+A continuación, te explicamos las diferentes pantallas que puedes encontrar en nuestra aplicación:
+
+
+🏠 Inicio:
+En esta pantalla podrás crear un nuevo perfil o ingresar con uno ya existente.
+
+📋 Menú principal:
+En esta pantalla encontrarás las diferentes opciones de la aplicación:
+
+🏷️ Etiquetar imágenes: 
+En esta pantalla podrás agregar etiquetas a tus imágenes para encontrarlas más fácilmente.
+
+🤣 Generador de memes: 
+En esta pantalla podrás crear divertidos memes con nuestras plantillas y agregar tus propios textos.
+
+🖼️ Generador de collage: 
+En esta pantalla podrás crear collages con tus imágenes favoritas.
+
+👤 Editar perfil:
+En esta pantalla podrás editar tu perfil de usuario. Podrás cambiar tu nombre, tu edad, tu imagen de perfil y tu género.
+
+⚙️ Configuración:
+En esta pantalla podrás configurar el repositorio de las imágenes y los directorios de guardados del Collage y de los Memes.
+
+🤪 Generador de memes:
+En esta pantalla podrás crear memes personalizados. Podrás elegir entre diferentes plantillas y agregar tus propios textos.
+
+🖼️ Generador de collage:
+En esta pantalla podrás crear collages con tus imágenes favoritas. Podrás elegir el diseño y la cantidad de imágenes que quieres incluir.
+
+🏷️ Etiquetar imágenes:
+En esta pantalla podrás agregar etiquetas a tus imágenes para encontrarlas más fácilmente. Podrás crear tus propias etiquetas.
+
+¡Esperamos que disfrutes usando UNLPImage! Si tienes alguna pregunta o problema, no dudes en contactarnos en la sección de soporte. 🤝
+
+Desarrolladores de UNLPImage:
+-Galo Arri 🧑‍💻
+-Lautaro Lagos 🧑‍💻
+-Nicolas Muñoz 🧑‍💻
+-Franco Rodriguez 🧑‍💻
+
+Este proyecto fue desarrollado como proyecto para la materia "Seminario de Lenguaje - Python" de la UNLP. Esperamos que nuestra aplicación sea útil y satisfaga tus necesidades de manejo de imágenes. Si tienes algún comentario o sugerencia, no dudes en hacérnosla saber. 
+
+¡Gracias por usar UNLPImage! 😊
